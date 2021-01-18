@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to save your seed using metal rings!"
+author: krijn
 ---
 
 # Welcome
